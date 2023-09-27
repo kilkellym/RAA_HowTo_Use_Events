@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAA_HowTo_Use_Events - Command 1</Text>
+    <Description>Some description for RAA_HowTo_Use_Events</Description>
+    <Assembly>RAA_HowTo_Use_Events.dll</Assembly>
+    <FullClassName>RAA_HowTo_Use_Events.Command1</FullClassName>
+    <ClientId>7f188ca9-0faa-4358-a150-1f2059890285</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAA_HowTo_Use_Events - Command 2</Text>
+    <Description>Some description for RAA_HowTo_Use_Events</Description>
+    <Assembly>RAA_HowTo_Use_Events.dll</Assembly>
+    <FullClassName>RAA_HowTo_Use_Events.Command2</FullClassName>
+    <ClientId>c8290a41-2de8-4ff1-8eb5-2d6c576fe832</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>RAA_HowTo_Use_Events</Name>
+    <Assembly>RAA_HowTo_Use_Events.dll</Assembly>
+    <FullClassName>RAA_HowTo_Use_Events.App</FullClassName>
+    <ClientId>d967a850-0371-41a1-b2c4-2fca69a0addc</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
